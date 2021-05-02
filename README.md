@@ -14,7 +14,7 @@ y = iris.target
 ## Results
 
 1. 
-```python
+```java
  n_components = 1 
 
  Explained Variance Ratio:  [0.92461872]  
@@ -37,7 +37,7 @@ y = iris.target
 ```
 
 2.
-```python
+```java
  Processed Data, n_components = 1 
 
  Explained Variance Ratio:  [0.928563]
@@ -60,7 +60,7 @@ y = iris.target
 ```
 
 3. 
-```python
+```java
  Explained Variance Ratio:  [0.928563   0.04816961]
  Explained Variance:  [0.19419117 0.01007375]
 ```
