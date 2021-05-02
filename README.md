@@ -64,7 +64,7 @@ y = iris.target
  Explained Variance Ratio:  [0.928563   0.04816961]
  Explained Variance:  [0.19419117 0.01007375]
 ```
-[Insert plot here]
+![](https://github.com/mrigankdoshy/principal-component-analysis/blob/main/assets/images/3.png)
 
 4.  
-[Insert plot here]
+![](https://github.com/mrigankdoshy/principal-component-analysis/blob/main/assets/images/4.png)
